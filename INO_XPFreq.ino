@@ -1,5 +1,6 @@
 // INO_XPFreq
 // Visualizador de frequencias do X-Plane
+// 2012 - josenildo.nascimento@gmail.com
 
 // Importa a biblioteca para o Display de Cristal Liquido
 #include <LiquidCrystal.h>

@@ -1,5 +1,11 @@
+"""
+PY_XPFreq
+Trasmite via comunicacao serial, informacoes
+para o visualizador de frequencias para X-Plane
+2012 - josenildo.nascimento@gmail.com
+"""
 
-# Importa a biblioteca serial
+# Importa bblioteca serial
 import serial
 
 from XPLMDefs import *
